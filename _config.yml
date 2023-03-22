@@ -3,11 +3,11 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Luis Gómez-Pantoja Cabezas
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
-
+description: 👋 Hi, I’m @Luisgpc
+Currently I am continuously learning about the development of the different Springboot modules and their optimization in the different Java versions. 👀 My main interests are focused on the knowledge I continuously gain from the evolving payment industry. 🌱 In addition to basic web development languages and java frameworks, I am currently introducing myself to the Rust language.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
